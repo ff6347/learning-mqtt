@@ -1,0 +1,15 @@
+{
+  "name": "simple-js-output",
+  "version": "0.1.0",
+  "description": "playing with shiftr",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^1.5.0"
+  }
+}
